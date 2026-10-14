@@ -2,3 +2,5 @@
 Team Leader: 이한울
 Team Leader: 20251060
 Project 04 version1 completed
+
+2nd Team Member: 주유태
